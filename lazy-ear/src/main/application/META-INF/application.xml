@@ -7,7 +7,7 @@
             <context-root>lazy</context-root>
         </web>
     </module>
-    <module>
+    <!--module>
         <ejb>lazy.jar</ejb>
-    </module>
+    </module-->
 </application>

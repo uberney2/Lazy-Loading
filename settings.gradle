@@ -1,0 +1,4 @@
+include ':lazy'
+include ':lazy-ear'
+rootProject.name='LazyLoading'
+
